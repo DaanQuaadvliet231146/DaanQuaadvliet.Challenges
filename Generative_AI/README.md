@@ -1,2 +1,2 @@
-# DaanQuaadvliet.Challenges
-Welcome to my week 9/10 Challenges GitHub page. In this page I will show my results of the week 9/10 challenges
+#Generative AI Challenge
+In week 9/10 of Block_B we made some AI generated assets. These assets in my case were PNG's of celebrities mixed with Pokemon. we used stable diffusion text to image finetuning by analyzing the dataset and then make a picture based on the prompt given. I asked for a famous person or brand and for output I got an lookalike pokemon. my favorite output is the bottomright picture of the LadyGaga_Pokemon file. In my opinion it looks the most like a Pokemon with its animalistic features and simple design. it would be a dark/bug type because of the bug statistics and the darkness of its nature and wings.
