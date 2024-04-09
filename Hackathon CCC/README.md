@@ -1,2 +1,2 @@
 # BLock A challenge: Hackathon CCC
-For my Block A week 9/10 challenge, I did the Hackathon with Peter Husen (student number 233900). I did this challenge under the team name "Big Slam" 
+For my Block A week 9/10 challenge, I did the Hackathon with Peter Husen (student number 233900). I did this challenge under the team name "BigSlam". The Challenge was done on the 20th of october 2023, during the autumn vacation. It was a fun, intuitive and hard challenge we put ourselves through. In this folder, you will see my results for the code, the results from the hackathon and codes we used to make the levels.
