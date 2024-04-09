@@ -1,2 +1,2 @@
-# DaanQuaadvliet.Challenges
-Welcome to my week 9/10 Challenges GitHub repository. In this page I will show my results of the week 9/10 challenges.
+# BLock A challenge: Hackathon CCC
+For my Block A week 9/10 challenge, I did the Hackathon with Peter Husen (student number 233900). I did this challenge under the team name "Big Slam" 
