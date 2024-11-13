@@ -1,2 +1,6 @@
 # DaanQuaadvliet.Challenges
-In Block C I did the Mirro Modules Challenge (Not Done Yet)
+In Block C I did the Mirro Modules Challenge. I followed these 3 modules:
+
+* Self-Image
+* Sleep Thight!
+* Anxiety
